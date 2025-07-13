@@ -1,2 +1,2 @@
-# Python
-Computer-Science-Mega-Project-1: Airline-Ticket-Booking-through-Python-interface-MySQL
+# Computer Science Class 12 Project: Easy2BookNFly (Python Interface MySQL)
+Computer Science Class 12 Project: Easy2BookNFly (Python Interface MySQL)
